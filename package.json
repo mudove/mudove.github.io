@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/mudove/mudove.github.io/issues"
   },
-  "homepage": "https://github.com/mudove/mudove.github.io#readme",
+  "homepage": "https://github.com/mudove/mudove.github.io",
   "dependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^8.0.5",
@@ -32,5 +32,8 @@
     "react-dom": "^16.8.3",
     "react-router-dom": "^4.3.1",
     "webpack": "^4.29.5"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
   }
 }
