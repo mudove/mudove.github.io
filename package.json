@@ -1,7 +1,6 @@
 {
   "name": "mudove.github.io",
   "version": "0.1.0",
-  "private": true,
   "homepage": "http://mudove.github.io/",
   "dependencies": {
     "body-parser": "^1.18.3",
