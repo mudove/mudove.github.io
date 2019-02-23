@@ -2,7 +2,7 @@
   "name": "mudove.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gitname.github.io/mudove.github.io"
+  "homepage": "http://mudove.github.io/"
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.3",
