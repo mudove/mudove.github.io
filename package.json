@@ -4,6 +4,8 @@
   "private": true,
   "homepage": "http://mudove.github.io/",
   "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
     "gh-pages": "^2.0.1",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
